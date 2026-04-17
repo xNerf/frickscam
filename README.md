@@ -9,3 +9,4 @@ The gole of frick scam is to remove discord scams from discord servers.
     "https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/refs/heads/main/txt/suspicious-list.txt"
     "https://raw.githubusercontent.com/DevSpen/scam-links/refs/heads/master/src/links.txt"
     "https://raw.githubusercontent.com/BuildBot42/discord-scam-links/refs/heads/main/list.txt"
+    "https://raw.githubusercontent.com/romainmarcoux/malicious-hash/main/full-hash-sha256-aa.txt"
