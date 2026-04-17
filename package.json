@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.26.3",
+    "dotenv": "^17.4.2"
+  }
 }
